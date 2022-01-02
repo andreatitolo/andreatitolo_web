@@ -4,9 +4,9 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Andrea Titolo # Website name
 baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Andrea Titolo' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -57,8 +57,21 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+
+# Added goldmark as per blogdown suggestion  
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Add security config to build site with hugo 0.91.2 (it does work without the following with hugo version 0.89.4)
+# see https://stackoverflow.com/questions/70429317/blogdownserve-site-fails-to-produce-template-site/70430687#70430687
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_      
 related:
   threshold: 80
   includeNewer: true
@@ -68,5 +81,3 @@ related:
       weight: 100
     - name: categories
       weight: 70
-security:
-  _merge: deep

@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+theme: atheme
+day_night: false
+font: 'myfont'
 font_size: L
 
 # SEO
@@ -15,52 +15,52 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Personal website that works as personal portfolio with my experience, publications and latest work'
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: andrea.titolo@uniroma1.it
+# phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Via dei Volsci 122
+  city: Rome
+  region: LAZ
+  postcode: '00185'
+  country: Italy
+  country_code: IT
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '41.899089'
+  longitude: '12.517720'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Follow me on Twitter
+    link: 'https://twitter.com/whysofurious1'
   - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    # icon_pack: fab
+    # name: Skype Me
+    # link: 'skype:andrea.titolo?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
@@ -68,9 +68,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2006-01-02'
+time_format: '15:04 PM'
+address_format: it
 
 # Site features
 
@@ -79,9 +79,10 @@ highlight_languages:
   - r
   - python
   - latex
+  - markdown
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -113,11 +114,16 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: 2006-01
   citation_style: apa
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)  
 projects:
-  post_view: 2
-  publication_view: 2
+  post_view: 1
+  publication_view: 4
   talk_view: 2
 breadcrumb:
   page_types:
@@ -125,11 +131,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
@@ -146,15 +152,15 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+# marketing:
+#   google_analytics: ''
+#   google_tag_manager: ''
+#   google_site_verification: ''
+#   baidu_site_verification: ''
+#   baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

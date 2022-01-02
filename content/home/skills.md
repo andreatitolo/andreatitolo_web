@@ -16,18 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: QGIS User - GIS mapping, satellite data manipulation and spatial analysis
+  icon: qgis2
+  icon_pack: custom
+  name: QGIS  
+- description: Remote Sensing for Cultural Heritage and Archaeological Investigation
+  icon: satellite
+  icon_pack: fas
+  name: Remote Sensing
+- description: R User - Spatial and Quantitative data analysis applied to Archaeology
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: R  
+
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

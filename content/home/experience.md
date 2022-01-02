@@ -22,29 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Fellow
+    company: Sapienza University of Rome
+    company_url: 'http://www.antichita.uniroma1.it/en/'
+    # company_logo: org-gc
+    location: Rome, Italy
+    date_start: '2020-07-01'
     date_end: ''
     description: |2-
+        Member of the project: Fluid Crescent. Tra paludi e oasi: gestione, morfologia e ricognizione dei paesaggi acquatici in Siria e Iraq.  
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Remote Sensing Analysis
+        * Archaeological Landscape Analysis
+        * GIS
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: PhD
+    company: Sapienza University of Rome
+    company_url: 'http://www.antichita.uniroma1.it/en/'
+    # company_logo: org-gc
+    location: Rome, Italy
+    date_start: '2016-11-01'
+    date_end: '2019-11-01'
+    description: PhD Thesis - Beyond the River. Settlement Patterns and Models of Occupation along the Euphrates in Syria and Iraq during the Iron Age.
 
 design:
   columns: '2'
 ---
+
+
