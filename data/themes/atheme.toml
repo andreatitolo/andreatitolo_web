@@ -1,0 +1,22 @@
+# Theme metadata
+name = "atheme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#78888b"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(246, 240, 234)"
+home_section_even = "rgb(240, 234, 228)"
+
+[dark]
+  link = "#4E6769"
+  link_hover = "#AD957F"
