@@ -16,7 +16,7 @@
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
     Made with <a href="https://github.com/andreatitolo/personalwebsite" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>, the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package, and the 
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://github.com/wowchemy/starter-hugo-academic" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
     {{ if ne .Type "docs" }}
@@ -29,4 +29,11 @@
     </span>
     {{ end }}
   </p>
+
+  <p class="marketing">
+    {{ if .Site.Params.marketing }}
+    Analytics by <a href="https://{{ .Site.Params.goatcounter }}.goatcounter.com">Goatcounter</a>
+ {{ end}}
+  </p>
+
 </footer>
