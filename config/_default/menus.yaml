@@ -29,4 +29,8 @@ main:
   - name: CV
     url: 'uploads/CV.pdf'
     weight: 80  
+    
+  - name: Blog
+    url: https://blog.andreatitolo.com
+    weight: 90
 
