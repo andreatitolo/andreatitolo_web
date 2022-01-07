@@ -31,9 +31,10 @@
   </p>
 
   <p class="marketing">
-    {{ if .Site.Params.marketing.goatcounter }}
+    {{- if .Site.Params.marketing.goatcounter }}
+    <script data-goatcounter="https://{{ .Site.Params.marketing.goatcounter }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
     Analytics by <a href="https://{{ .Site.Params.marketing.goatcounter }}.goatcounter.com">Goatcounter</a>
- {{ end}}
+ {{- end}}
   </p>
-
 </footer>
