@@ -36,12 +36,12 @@ social:
 - icon: linkedin
   icon_pack: ai
   link: https://www.linkedin.com/in/andreatitolo/
-- icon: academia
-  icon_pack: ai
-  link: https://uniroma.academia.edu/AndreaTitolo
-- icon: researcherid
-  icon_pack: ai
-  link: https://publons.com/researcher/3704783/andrea-titolo/     
+# - icon: academia
+#   icon_pack: ai
+#   link: https://uniroma.academia.edu/AndreaTitolo
+# - icon: researcherid
+#   icon_pack: ai
+#   link: https://publons.com/researcher/3704783/andrea-titolo/     
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-7322-8634
