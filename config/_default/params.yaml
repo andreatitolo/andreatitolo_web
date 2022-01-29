@@ -29,9 +29,9 @@ address:
   postcode: '00185'
   country: Italy
   country_code: IT
-coordinates:
-  latitude: '41.899089'
-  longitude: '12.517720'
+# coordinates:
+#   latitude: '41.899089'
+#   longitude: '12.517720'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -42,7 +42,7 @@ contact_links:
     icon_pack: fab
     name: Follow me on Twitter
     link: 'https://twitter.com/whysofurious1'
-  - icon: skype
+  # - icon: skype
     # icon_pack: fab
     # name: Skype Me
     # link: 'skype:andrea.titolo?call'
