@@ -50,7 +50,7 @@ social:
   link: https://www.researchgate.net/profile/Andrea_Titolo2  
 - icon: cv
   icon_pack: ai
-  link: 'files/CV.pdf'    
+  link: 'uploads/CV.pdf'    
 superuser: true
 title: Andrea Titolo
 user_groups:
