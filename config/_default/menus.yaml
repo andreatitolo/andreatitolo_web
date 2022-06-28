@@ -27,8 +27,16 @@ main:
     weight: 70
     
   - name: CV
+    identifier: "cv"
+    weight: 80 
+    
+  - name: English Version
     url: 'uploads/CV.pdf'
-    weight: 80  
+    parent: "cv"
+    
+  - name: Italian Version
+    url: 'uploads/CV_ita.pdf'
+    parent: "cv"      
     
   - name: Blog
     url: https://blog.andreatitolo.com
