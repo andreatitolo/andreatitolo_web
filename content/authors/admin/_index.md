@@ -32,7 +32,7 @@ social:
   link: https://twitter.com/whysofurious1
 - icon: github
   icon_pack: fab
-  link: https://github.com/andreatitolo  
+  link: https://github.com/andreatitolo
 - icon: linkedin
   icon_pack: ai
   link: https://www.linkedin.com/in/andreatitolo/
