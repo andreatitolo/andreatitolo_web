@@ -29,7 +29,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/whysofurious1
+  link: https://twitter.com/titoloandrea_
 - icon: github
   icon_pack: fab
   link: https://github.com/andreatitolo
