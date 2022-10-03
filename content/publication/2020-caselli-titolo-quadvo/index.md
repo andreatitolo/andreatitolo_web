@@ -28,7 +28,7 @@ tags:
 title: Tools and objects from Tell Zurghul excavations (2015-2017)
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "publication/2020-caselli-titolo-quadvo/Caselli_Titolo_QuVO_XVI_2020.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
