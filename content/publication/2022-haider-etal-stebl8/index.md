@@ -12,7 +12,7 @@ authors:
 - Ali Badawi
 - admin
 - Paolo de Paolis
-date: "2022-11-09T00:00:00Z"
+date: "2022-11-30T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -24,7 +24,7 @@ publication: 'Studia Eblaitica. Studies on the Archaeology, History, and Philolo
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-11-30T00:00:00Z"
+publishDate: "2022-11-09T00:00:00Z"
 slides: ""
 summary: In this article we outline the geographic, topographical, and historical backgrounds of the Lebanese-Italian Archaeological Project in the Region of Tyre areas. We summarize past research there, and give an overview of the project’s wider scopes and general aims.
 tags:
