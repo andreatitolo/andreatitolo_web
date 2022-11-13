@@ -38,10 +38,10 @@ address:
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    name: Follow me on Twitter
-    link: 'https://twitter.com/whysofurious1'
+    name: Follow me on Mastodon
+    link: 'https://archaeo.social/web/@andreatitolo'
   # - icon: skype
     # icon_pack: fab
     # name: Skype Me

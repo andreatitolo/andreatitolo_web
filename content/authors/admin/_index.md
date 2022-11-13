@@ -27,9 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/titoloandrea_
+  link: https://archaeo.social/web/@andreatitolo
 - icon: github
   icon_pack: fab
   link: https://github.com/andreatitolo
