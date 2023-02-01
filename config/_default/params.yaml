@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: andrea.titolo@uniroma1.it
+email: andrea.titolo@unito.it
 # phone: 888 888 88 88
 address:
-  street: Via dei Volsci 122
-  city: Rome
-  region: LAZ
-  postcode: '00185'
+  street: Via Sant'Ottavio 20
+  city: Torin
+  region: PIE
+  postcode: '10124'
   country: Italy
   country_code: IT
-# coordinates:
-#   latitude: '41.899089'
-#   longitude: '12.517720'
+coordinates:
+  latitude: '45.06797'
+  longitude: '7.69404'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
