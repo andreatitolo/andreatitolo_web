@@ -23,12 +23,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Fellow
-    company: Sapienza University of Rome
+    company: University of Turin - Dipartimento di Studi Storici
+    company_url: 'https://www.dipstudistorici.unito.it/do/home.pl'
+    # company_logo: org-gc
+    location: Turin, Italy
+    date_start: '2023-02-01'
+    date_end: ''
+    description: |2-
+        Research Fellow: Governance Policies and Political Landscapes in the Southern Levant during the Neo-Assyrian Empire. Part of the project [The Empire Strikes Back: The Geography of Governance Strategies in the Assyrian Empire](https://www.dipstudistorici.unito.it/do/progetti.pl/Show?_id=iuxd)
+        
+        Responsibilities include:
+        
+        * Archaeological Landscape Analysis
+        * Quantitative and Spatial Analysis
+        * GIS and Spatial Database Management
+  - title: Research Fellow
+    company: Sapienza University of Rome - Dipartimento di Scienze dell'Antichità
     company_url: 'http://www.antichita.uniroma1.it/en/'
     # company_logo: org-gc
     location: Rome, Italy
     date_start: '2020-07-01'
-    date_end: ''
+    date_end: '2023-01-31'
     description: |2-
         Member of the project: Fluid Crescent. Tra paludi e oasi: gestione, morfologia e ricognizione dei paesaggi acquatici in Siria e Iraq.  
         Responsibilities include:
