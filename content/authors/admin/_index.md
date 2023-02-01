@@ -20,8 +20,8 @@ interests:
 - GIS
 - Mapping
 organizations:
-- name: Sapienza University of Rome
-  url: "https://www.uniroma1.it/it/pagina-strutturale/home"
+- name: Turin University
+  url: "https://www.dipstudistorici.unito.it/do/home.pl"
 role: Research Fellow
 social:
 - icon: envelope
@@ -58,7 +58,7 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher at [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home) (Near Eastern Archaeology). My research interests include Settlement Pattern Analysis, Remote Sensing, GIS, and mapping. 
+I am a researcher at [Turin University](https://www.dipstudistorici.unito.it/do/home.pl) (South Western Asia Archaeology). My research interests include Settlement Pattern Analysis, Remote Sensing, GIS, and mapping. 
 
 During my Ph.D. I analysed Iron Age settlement patterns along the Euphrates river in ancient Mesopotamia. I used a landscape archaeology approach, also integrating geomorphology, remote sensing, quantitative and spatial analyses.
 

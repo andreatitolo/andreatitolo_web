@@ -28,7 +28,7 @@ tags: []
 title: Paesaggi sommersi. Metodologie di monitoraggio, prevenzione e salvaguardia dei siti a rischio del bacino della diga di Mosul, Irak. Il progetto RE-Land.
 url_code: ""
 url_pdf: ""
-url_slides: "https://titoloandrea.codeberg.page/SeminarioPalermoJan2023/@pages/TitoloPalermo2023.html#/scelta-delle-immagini-satellitari"
+url_slides: "https://titoloandrea.codeberg.page/SeminarioPalermoJan2023/@pages/TitoloPalermo2023.html"
 url_video: ""
 ---
 
