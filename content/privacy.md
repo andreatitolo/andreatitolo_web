@@ -20,6 +20,8 @@ The only cookies active on this website are those default by Netflify (which hos
 This website does not rely on Google Analytics or Disqus. It does use [GoatCounter](https://www.goatcounter.com), a privacy-friendly service which does not collect personal information from the users. 
 ##### **29-01-2022 update** 
 Goatcounter by default tracked Referer header and campaign parameters, User-Agent (to get the browser and system name and version), Screen size, Country, Region, and Language. I didn't noticed at the beginning, but these tracking are now disabled. The only tracker active is the [SESSION](https://github.com/arp242/goatcounter/blob/master/docs/sessions.markdown#goatcounters-solution) one, which just serve to avoid counting refreshes as different visits. 
+##### **01-02-2023 update** 
+Goatcounter analytics have been disabled completely.
 
 ### Contact Information
 #### Email
