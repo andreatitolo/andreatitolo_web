@@ -33,9 +33,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/andreatitolo
-- icon: linkedin
-  icon_pack: ai
-  link: https://www.linkedin.com/in/andreatitolo/
+# - icon: linkedin
+#   icon_pack: ai
+#   link: https://www.linkedin.com/in/andreatitolo/
 # - icon: academia
 #   icon_pack: ai
 #   link: https://uniroma.academia.edu/AndreaTitolo
