@@ -19,9 +19,9 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
-  # - name: Courses
-  #   url: courschrome://vivaldi-webui/startpage?section=Speed-dials&background-color=#f6f6f6es/
-  #   weight: 60
+  - name: Courses
+    url: '#courses'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
@@ -39,6 +39,6 @@ main:
     parent: "cv"      
     
   - name: Blog
-    url: https://blog.andreatitolo.com
+    url: https://archaeoramblings.com
     weight: 90
 
