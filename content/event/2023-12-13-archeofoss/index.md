@@ -21,7 +21,7 @@ image:
 location: University of Turin, Turin (Italy)
 math: true
 projects: []
-publishDate: “2023-12-11T00:00:00Z"
+publishDate: “2023-12-10T00:00:00Z"
 summary: Talk presented at the Archeo.FOSS17 Conference in Turin (12-13 December)). Slides made with Quarto and Revealjs.
 tags: []
 title: Using Kart and GitHub for versioning and collaborating with spatial data in archaeological research
