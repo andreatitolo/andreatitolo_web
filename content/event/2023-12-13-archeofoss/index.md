@@ -10,7 +10,7 @@ all_day: false
 authors:
 - admin
 - Alessio Palmisano
-date: “2023-12-13T17:00:00Z"
+date: "2023-12-13T12:00:00Z"
 date_end: []
 event: ArcheoFOSS17
 event_url: https://www.archeofoss.org/
