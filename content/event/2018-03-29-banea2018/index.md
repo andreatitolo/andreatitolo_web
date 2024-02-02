@@ -29,7 +29,7 @@ publishDate: "2017-02-01T00:00:00Z"
 slides: 
 summary: Talk and slides presented at the BANEA 2018 conference.
 tags: []
-title: On the Edge of the Empire - Riverine Landscape and Settlement Patterns in the Haditha Dam Region during the Iron Age.
+title: On the Edge of the Empire - Riverine Landscape and Settlement Patterns in the Haditha Dam Region during the Iron Age
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -25,7 +25,7 @@ projects: []
 publishDate: "2023-01-27T00:00:00Z"
 summary: Section of a larger talk presented at the Seminar series at the University of Palermo.
 tags: []
-title: Paesaggi sommersi. Metodologie di monitoraggio, prevenzione e salvaguardia dei siti a rischio del bacino della diga di Mosul, Irak. Il progetto RE-Land.
+title: Paesaggi sommersi. Metodologie di monitoraggio, prevenzione e salvaguardia dei siti a rischio del bacino della diga di Mosul, Irak. Il progetto RE-Land
 url_code: ""
 url_pdf: ""
 url_slides: "https://titoloandrea.codeberg.page/SeminarioPalermoJan2023/@pages/TitoloPalermo2023.html"

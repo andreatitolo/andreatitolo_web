@@ -29,7 +29,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 2019-06-27-bh6
 summary: Talk and slides presented at the Broadening Horizons 6 Conference.
 tags: []
-title: Archaeological Landscape of the Lower Syrian Euphrates Valley - An Integrated Approach Towards the Reconstruction of the Settlement Patterns during the Iron Age.
+title: Archaeological Landscape of the Lower Syrian Euphrates Valley - An Integrated Approach Towards the Reconstruction of the Settlement Patterns during the Iron Age
 url_code: ""
 url_pdf: ""
 url_slides: ""

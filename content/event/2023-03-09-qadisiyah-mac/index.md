@@ -23,7 +23,7 @@ projects: []
 publishDate: "2023-01-27T00:00:00Z"
 summary: Talk presented at the Mesopotamian Archaeology Conference at the University of Qadisiyah, Diwaniyeh (Iraq). Slides made with Quarto and Revealjs.
 tags: []
-title: Evaluating the Potential of Cartographic and Satellite Data for Landscape Archaeology in the Area of Tell Zurghul.
+title: Evaluating the Potential of Cartographic and Satellite Data for Landscape Archaeology in the Area of Tell Zurghul
 url_code: "https://codeberg.org/titoloandrea/QadisyahLAC"
 url_pdf: ""
 url_slides: "https://andreatitolo.com/slides/2023-03-09-qadisiyah-mac/TitoloLAC2023.html"

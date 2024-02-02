@@ -25,7 +25,7 @@ projects: []
 publishDate: "2023-05-25T00:00:00Z"
 summary: Talk with Prof. Paola Sconzo (University of Palermo), Dr. Francesca Simi (University of Udine) presented at the 13th ICAANE conference at the University of Copenhagen (Denmark). Slides made with Quarto and Revealjs.
 tags: []
-title: From the Tigris to the Euphrates banks. Post-flooding assessment at the Tishreen Dam Reservoir, North Syria.
+title: From the Tigris to the Euphrates banks. Post-flooding assessment at the Tishreen Dam Reservoir, North Syria
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -23,7 +23,7 @@ projects: []
 publishDate: "2023-05-25T00:00:00Z"
 summary: Talk presented at the 13th ICAANE conference at the University of Copenhagen (Denmark). Slides made with Quarto and Revealjs.
 tags: []
-title: Normalized Difference Water Index for Cultural Heritage. A Reproducible Method for Monitoring Flooded Archaeological Sites.
+title: Normalized Difference Water Index for Cultural Heritage. A Reproducible Method for Monitoring Flooded Archaeological Sites
 url_code: "https://codeberg.org/titoloandrea/TitoloIcaane2023"
 url_pdf: ""
 url_slides: "https://andreatitolo.com/slides/icaane2023/TitoloIcaane2023.html"

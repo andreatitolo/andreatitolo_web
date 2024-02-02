@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 2020-01-10-banea2020
 summary: Talk and slides presented at the Banea 2020 Conference.
 tags: []
-title: Monitoring Emerging Archaeological Sites Using Multitemporal NDWI - Case Studies from Iraq.
+title: Monitoring Emerging Archaeological Sites Using Multitemporal NDWI - Case Studies from Iraq
 url_code: ""
 url_pdf: ""
 url_slides: ""

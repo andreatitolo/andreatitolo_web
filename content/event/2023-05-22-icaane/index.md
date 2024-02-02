@@ -24,7 +24,7 @@ projects: []
 publishDate: "2023-05-25T00:00:00Z"
 summary: Talk with Dr. Giulia Iacobucci (Sapienza University) presented at the 13th ICAANE conference at the University of Copenhagen (Denmark). Slides made with Quarto and Revealjs.
 tags: []
-title: Geomorphological and geoarchaeological setting of the Lower Mesopotamian Plain. The case study of Tell Zurghul archaeological site and its human-environmental interaction.
+title: Geomorphological and geoarchaeological setting of the Lower Mesopotamian Plain. The case study of Tell Zurghul archaeological site and its human-environmental interaction
 url_code: ""
 url_pdf: ""
 url_slides: ""

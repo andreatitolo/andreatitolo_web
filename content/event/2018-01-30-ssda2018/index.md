@@ -29,7 +29,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: Talk and slides presented at the V Seminario della Scuola di Dottorato in Archeologia (SSDA).
 tags: []
-title: Pattern Insediamentali nell'età del Ferro - il caso studio del Medio Eufrate Iracheno.
+title: Pattern Insediamentali nell'età del Ferro - il caso studio del Medio Eufrate Iracheno
 url_code: ""
 url_pdf: ""
 url_slides: ""
